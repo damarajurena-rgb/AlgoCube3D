@@ -1,0 +1,6 @@
+{
+  "name": "AlgoCube3D",
+  "description": "An interactive 3D visualizer that translates array algorithms into step-by-step movements of labeled 3D cubes. Supports custom user inputs and parsing code in Python, Java, or C using server-side AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
